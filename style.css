@@ -1,0 +1,20 @@
+*{
+    font-family:Verdana, Geneva, Tahoma, sans-serif
+}
+body{
+    text-align:center
+}
+p,h4,h1{
+    font-size: 25px;
+    color: blueviolet;
+}
+.camera{
+    text-emphasis: none;
+}
+img{
+    border: 4px solid black;
+}
+
+#heading1{
+    background-color: aqua;
+}
